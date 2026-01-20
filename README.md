@@ -1,4 +1,12 @@
-# 🔴 Valorant Website Clone
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Valorant_logo.svg" width="220" alt="Valorant Logo">
+</p>
+
+<h1 align="center">Valorant Website Clone</h1>
+
+<p align="center">
+  A high-fidelity Valorant website clone built with modern front-end tools and real-time API data.
+</p>
 
 A high-fidelity **Valorant website clone** built using modern front-end tools and real-time data from the **Valorant API**.  
 This project focuses on **visual accuracy**, **smooth animations**, and a **responsive, performance-optimized UI**, inspired by Riot Games’ official Valorant website.
