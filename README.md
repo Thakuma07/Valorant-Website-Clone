@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Valorant_logo.svg" width="220" alt="Valorant Logo">
+   <p align="center" style="background:#0f1923; padding:20px; border-radius:12px;">
+  <img 
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/valorant.svg"
+    width="220"
+    alt="Valorant Logo"
+    style="filter: invert(1);"
+  >
+</p>
+
 </p>
 
 <h1 align="center">Valorant Website Clone</h1>
